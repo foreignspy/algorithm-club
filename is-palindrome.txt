@@ -1,0 +1,6 @@
+
+//
+
+the following algorithm is quite a popular question to be encountered during interviews, it is rather simple. A string is essentially a palindrome if the reversal of the string is the same as the original string, for example “bob”. You can see the pseudo code for the algorithm if you swipe right.
+
+//
