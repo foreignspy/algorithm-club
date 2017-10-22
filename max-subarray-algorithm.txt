@@ -1,0 +1,11 @@
+
+
+//
+
+
+this right here is the maximum subarray where
+ you have to find the contiguous(neighbor) subarray
+ within the group of integers in which has the largest sum.
+
+
+//
