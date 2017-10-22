@@ -1,0 +1,9 @@
+
+
+
+// 
+
+this is the zig-zag conversion where “algorithmclub” is written in a zig-zag pattern on a given number of rows, which then is read line by line translating into “armbloihcugtl”
+
+
+//
