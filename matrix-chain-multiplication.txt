@@ -1,0 +1,9 @@
+
+
+//
+
+
+the one and only matrix chain multiplication, one of the most difficult and popular dynamic programming algorithm if you may, the problem requires you to determine the optimal sequence for performing a series of operations, this class of problem is important in many complier design for code optimization and in databases for query optimization, and many more uses. You’re only able to multiply the 2 matrices together if the inner dimension matches together, in this case the ‘6’ and the ‘6’ are the same. We use the recursive formula to find an optimal way to multiply these 5 matrices.
+
+
+//
