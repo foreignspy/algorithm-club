@@ -1,0 +1,8 @@
+
+
+
+//
+
+this is the 2sum algorithm where it is given an array of integers and it returns 2 numbers that end up being the given answer. For this task we use hash map which offers a constant time look up operation, therefore we need to loop the array once to store the elements and their indices, we would loop through the array to check each element if ‘hash.find(target-numbers[i])’
+
+//
