@@ -1,0 +1,8 @@
+
+
+
+//
+
+posting a super simple reverse integer algorithm while I work on the matrix chain multiplication. This is one way to reverse an integer, where you simply reverse ‘321’ into ‘123’ we assume it to be a 32-bit signed integer, our function returns 0 if function overflows.
+
+//
