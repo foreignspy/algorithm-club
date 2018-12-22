@@ -1,8 +1,11 @@
 
 ![alt text](https://i.imgur.com/ll2Elbf.png)
 
+
+Run the implemention using terminal like so
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+gcc -Wall -o implementation implementation.c
+clang implementation.c -o implementation
+./implementation
+
 ```
